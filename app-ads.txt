@@ -38,7 +38,7 @@ zmaticoo.com, 5135655, RESELLER
 #applovin end
 
 #admob start
-google.com, pub-9419829768956553, DIRECT, f08c47fec0942fa0
+google.com, pub-7296805246402872, DIRECT, f08c47fec0942fa0
 #admob end
 
 #pangle start
